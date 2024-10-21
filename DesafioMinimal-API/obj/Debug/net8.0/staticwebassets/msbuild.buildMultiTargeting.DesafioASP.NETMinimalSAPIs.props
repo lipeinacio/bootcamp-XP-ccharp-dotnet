@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\DesafioASP.NETMinimalSAPIs.props" />
-</Project>

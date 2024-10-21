@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\DesafioASP.NETMinimalSAPIs.props" />
-</Project>
